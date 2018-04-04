@@ -1,0 +1,27 @@
+{
+  "name": "exiftool-vendored-libs",
+  "version": "10.89.0",
+  "description": "Vendored ExifTool for Node.js",
+  "main": "./index.js",
+  "files": [
+    "bin",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mceachen/exiftool-vendored.exe.git"
+  },
+  "keywords": [
+    "ExifTool",
+    "EXIF"
+  ],
+  "author": "Matthew McEachen <matthew-exiftoolvendored@mceachen.org>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/mceachen/exiftool-vendored/issues"
+  },
+  "homepage": "https://github.com/mceachen/exiftool-vendored.exe#readme"
+}
